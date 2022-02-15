@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> dev
 # Created by https://www.toptal.com/developers/gitignore/api/git,node,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,node,visualstudiocode
 
@@ -177,5 +180,8 @@ dist
 .ionide
 
 # Support for Project snippet scope
+<<<<<<< HEAD
 
 # End of https://www.toptal.com/developers/gitignore/api/git,node,visualstudiocode
+=======
+>>>>>>> dev
